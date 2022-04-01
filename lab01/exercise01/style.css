@@ -12,7 +12,7 @@ Add some style blocks below this line to style the card.
 
 section {
     width: 300px;
-    border: 3px solid gray;
+    border: 1px solid gray;
 }
 
 h2 {
